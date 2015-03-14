@@ -1,0 +1,49 @@
+companyName.required = Company name is required
+companyName.error = Max 40 chars
+companyNip.required = NIP is required
+companyNip.error = NIP must be 10 numbers long
+companyStreet.error = Max 40 chars
+companyCity.error = Max 40 chars
+companyCountry.error = Max 10 chars
+companyPostCode.error = Max 6 chars
+companyPhoneNumber.error = Max 12 chars
+companyContactPersonName.error = Max 20 chars
+companyContactPersonLastName.error = Max 20 chars
+companyContactPersonDescription.error = Max 50 chars
+companyEmail.error = Max 50 chars
+
+locationName.error = Max 20 chars
+locationStreet.error = Max 100 chars
+locationCity.error = Max 100 chars
+locationPostCode.error = Max 6 chars
+locationSerialNumber.error = Max 1000 chars
+locationSerialNumber.required = Serial Number is required
+locationDetails.error = Max 500 chars
+locationTagID.error = Max 50 chars
+locationCompanyID.error = Choose Company for Location
+
+eventType.error = Max 100 chars
+eventComment.error = Max 500 chars
+eventLocationID.required = Location name is required
+
+deviceImei.required = Serial Number/IMEI is required
+deviceImei.error = Max 100 chars
+deviceType.error = Max 100 chars
+deviceImsi.error = Max 15 chars
+deviceDescription.error = Max 100 chars
+devicePhoneNumber.error = Max 12 chars
+
+userName.required = User name is required
+userPassword.required = Password is required
+userName.error = Max 12 chars
+userPassword.error = Password is less than 8 chars
+
+employeeName.required = Name is required
+employeeLastName.required = Last Name is required
+employeeName.error  = Max 20 chars
+employeeLastName.error = Max 30 chars
+employeeStreet.error = Max 40 chars
+employeeCity.error = Max 30 chars
+employeePostCode.error = Max 6 chars
+employeeEmail.error = Max 50 chars
+employeePosition.error = Max 100 chars

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+                                   "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2011-06-22 19:16:38 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+ <class name="db.entity.CDevices" table="DEVICES">
+  <id name="id" type="long">
+   <column name="ID"/>
+            <generator class="sequence">
+            <param name="sequence">devices_id_seq</param>
+            </generator>
+  </id>
+  <property column="device_type" generated="never" lazy="false"
+   name="deviceType" type="java.lang.String"/>
+  <property column="device_sn" generated="never" lazy="false"
+   name="deviceImei" type="java.lang.String"/>
+     <property column="imsi" generated="never" lazy="false"
+   name="imsi" type="java.lang.String"/>
+  <many-to-one class="db.entity.CEmployee" column="employee_id"
+   foreign-key="devices_employee_FK" name="employee" lazy="false " fetch="join"/>
+  <property generated="never" lazy="false" name="deviceStatus" type="java.lang.String">
+   <column name="DEVICE_STATUS" sql-type="VARCHAR2"/>
+  </property>
+  <property generated="never" lazy="false" name="phoneNumber" type="java.lang.String">
+   <column name="PHONE_NUMBER" sql-type="VARCHAR2"/>
+  </property>
+ </class>
+</hibernate-mapping>

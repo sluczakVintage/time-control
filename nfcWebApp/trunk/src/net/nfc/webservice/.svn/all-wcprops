@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/37/nfcWebApp/trunk/src/net/nfc/webservice
+END
+CAdministration.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/37/nfcWebApp/trunk/src/net/nfc/webservice/CAdministration.java
+END
+CEventStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/29/nfcWebApp/trunk/src/net/nfc/webservice/CEventStatus.java
+END
+CRequestAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/29/nfcWebApp/trunk/src/net/nfc/webservice/CRequestAuthentication.java
+END
+CRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31/nfcWebApp/trunk/src/net/nfc/webservice/CRegistration.java
+END
+CRequestStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/29/nfcWebApp/trunk/src/net/nfc/webservice/CRequestStatus.java
+END
+CResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/29/nfcWebApp/trunk/src/net/nfc/webservice/CResponse.java
+END
+CRequestAdministration.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/29/nfcWebApp/trunk/src/net/nfc/webservice/CRequestAdministration.java
+END
+CAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/29/nfcWebApp/trunk/src/net/nfc/webservice/CAuthentication.java
+END
+CResponseStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/29/nfcWebApp/trunk/src/net/nfc/webservice/CResponseStatus.java
+END
+CUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/29/nfcWebApp/trunk/src/net/nfc/webservice/CUtility.java
+END
+CRequestRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/29/nfcWebApp/trunk/src/net/nfc/webservice/CRequestRegistration.java
+END

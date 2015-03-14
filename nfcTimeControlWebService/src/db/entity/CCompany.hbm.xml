@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+                                   "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2011-06-22 19:16:38 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+ <class name="db.entity.CCompany" table="COMPANY">
+  <id name="id" type="long" column="id">
+              <generator class="sequence">
+            <param name="sequence">company_id_seq</param>
+            </generator>
+  </id>
+  <property name="name" type="java.lang.String" column="NAME"/>
+  <property name="street" type="java.lang.String" column="STREET" />
+  <property name="city" type="java.lang.String" column="CITY"/>
+  <property name="postCode" type="java.lang.String" column="POST_CODE"/>
+  <property name="country" type="java.lang.String" column="COUNTRY"/>
+  <property name="nip" type="java.lang.String" column="NIP"/>
+  <property name="phoneNumber" type="java.lang.String" column="PHONE_NUMBER" />
+  <property name="contactPersonName" type="java.lang.String" column="CONTACT_PERSON_NAME"/>
+  <property name="contactPersonLastName" type="java.lang.String" column="CONTACT_PERSON_LAST_NAME"/>
+  <property name="contactPersonDescription" type="java.lang.String" column="CONTACT_PERSON_DESCRIPTION"/>
+  </class>
+</hibernate-mapping>

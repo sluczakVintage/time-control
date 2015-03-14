@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/77/nfcTimeControlWebService/src/webService/request
+END
+CRequestStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/77/nfcTimeControlWebService/src/webService/request/CRequestStatus.java
+END
+CRequestAdministration.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/77/nfcTimeControlWebService/src/webService/request/CRequestAdministration.java
+END
+CRequestRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/77/nfcTimeControlWebService/src/webService/request/CRequestRegistration.java
+END
+CRequestAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/77/nfcTimeControlWebService/src/webService/request/CRequestAuthentication.java
+END

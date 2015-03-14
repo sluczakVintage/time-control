@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical" android:background="@color/background"  android:weightSum="1">
+    <TableLayout android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/tableLayout1">
+        <TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <DigitalClock android:id="@+id/digitalClock1" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="DigitalClock"></DigitalClock>
+        </TableRow>
+    </TableLayout>
+    <RelativeLayout android:layout_width="wrap_content" android:id="@+id/relativeLayout1">
+        <ImageView android:src="@drawable/scan" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView1" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"></ImageView>
+        <TextView android:layout_width="wrap_content" android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_marginTop="71dp" android:layout_alignParentRight="true" android:text="@string/writePleaseScan"></TextView>
+    </RelativeLayout>
+</TableLayout>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/91/nfcWebApp2/nfcWebApp/src/net/nfc/web/validator
+END
+UserValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/91/nfcWebApp2/nfcWebApp/src/net/nfc/web/validator/UserValidator.java
+END
+EmployeeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/validator/EmployeeValidator.java
+END
+DeviceValidaotr.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/91/nfcWebApp2/nfcWebApp/src/net/nfc/web/validator/DeviceValidaotr.java
+END
+AddPrivilegeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/validator/AddPrivilegeValidator.java
+END
+EventValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/91/nfcWebApp2/nfcWebApp/src/net/nfc/web/validator/EventValidator.java
+END
+CompanyValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/91/nfcWebApp2/nfcWebApp/src/net/nfc/web/validator/CompanyValidator.java
+END
+LocationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/91/nfcWebApp2/nfcWebApp/src/net/nfc/web/validator/LocationValidator.java
+END
+AddDeviceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/validator/AddDeviceValidator.java
+END

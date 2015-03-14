@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 45
+NFCTimeControl.apk
+classes.dex
+resources.ap_
+
+END

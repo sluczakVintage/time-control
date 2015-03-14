@@ -1,0 +1,46 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+
+}
+ #container {
+	width: 46em;
+	background: #FFFFFF;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}
+ #mainContent {
+	height:260px;
+    width:400px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	border: 1px solid #8dbe02;
+	margin:-130px 0 0 -196px;
+	background: #FFFFFF url(../images/img01.gif) repeat-x left top;
+	line-height: normal;
+	text-transform: lowercase;
+	font-weight: normal;
+	color: #618C04;
+	text-align: center;
+}
+#box {
+	position:absolute;
+	left:72px;
+	top:74px;
+	padding:60px 20px;
+}
+
+#error {
+	text-decoration: none;
+	color: red;
+	font-size: 10px;	
+}
+
+#success {
+	text-decoration: none;
+	color: green;
+	font-size: 10px;	
+}

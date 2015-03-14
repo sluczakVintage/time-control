@@ -1,0 +1,206 @@
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+html {
+
+font-family:"trebuchet ms", tahoma, verdana, arial, sans-serif; /* set default font */
+
+}
+
+body {
+
+padding:0; /*remove padding */
+margin:0; /* remove margins */
+border:0; /* remove borders */
+	/*color: #502625;*/
+color: black;
+font-family:"microsoft sans Serif";
+font-size:9pt;
+
+}
+hr {
+	color: #502625;
+	border:dotted 1px #502625;
+	
+}
+
+
+h2 {
+	background-image:url(../images/dot.png);
+	background-repeat:no-repeat;
+	background-position:left;
+	padding-left:40px;
+	font-size:12pt;
+	color: #502625;
+	font-family:"Kozuka Gothic Pr6N H";
+}
+
+#container {
+height:100%;
+
+padding:0; /*remove padding */
+margin:0; /* remove margins */
+border:0; /* remove borders */
+	/*color: #502625;*/
+color: black;
+font-family:"microsoft sans Serif";
+font-size:9pt;
+
+}
+
+#center {
+	margin: 0 auto;	
+
+	position: relative;
+	float: center;
+}
+
+
+
+/* Header */
+
+#header{
+	margin-bottom: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	position: relative;
+	left: 0px;
+	float: center;
+	text-align:center;
+	font-size: 20px;
+	height:20%;
+}
+
+#banner {
+	width:100%;
+	height:30px;
+
+	position: relative;
+	float: center;
+}
+
+#logo {
+	margin-bottom: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	width:30%;
+	height:30px;
+	color: #502625;
+	position:relative;
+	float:left;
+
+}
+
+#bar{
+	margin-bottom: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	
+	width:65%;
+	height:30px;
+	color: #502625;
+	float:right;
+	position:relative;
+}
+
+#menu {
+	margin-bottom: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+	width:100%;
+	height:20px;
+	color: #502625;
+}
+
+#menu ul {
+
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+}
+
+#menu ul li {
+	 font-size:15px;
+	 list-style:none;
+	 display:inline;
+ 
+}
+
+#menu ul li  a {
+    text-decoration:none;
+	color: #502625;
+	padding-left:15px;
+	
+	
+}
+
+#menu ul li  a:hover {
+    color: #ab0907;
+	text-decoration: none;
+
+}
+
+
+img {
+	border:none;
+	float:right;
+}
+
+/* Main */
+
+#main {
+	height:700px;
+	width:100%;
+border: 1px solid black;
+	padding-top:2px;
+	position:relative;
+	float:center;
+}
+
+#left_panel {
+	height:100%;
+	width:20%;
+	float:left;
+	position: relative;
+	padding-top:10px;
+	border: 1px solid black;
+	margin-left: 10px;
+}
+
+#right_panel {
+	height:100%;
+		margin-right: 10px;
+	width:78%;
+	float:right;
+	position: relative;
+	padding-top:10px;
+		border: 1px solid black;
+}
+
+#blank {
+
+}
+
+
+/* Bottom */
+
+#bottom {
+	width: 100%;
+	height:10%;
+	
+}
+
+#footer {
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+	color: #502625;
+	border: 1px solid black;
+}

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/80/nfcWebApp/trunk/WebContent/WEB-INF/view
+END
+includes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/nfcWebApp/trunk/WebContent/WEB-INF/view/includes.jsp
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/62/nfcWebApp/trunk/WebContent/WEB-INF/view/404.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/63/nfcWebApp/trunk/WebContent/WEB-INF/view/header.jsp
+END
+welcome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/80/nfcWebApp/trunk/WebContent/WEB-INF/view/welcome.jsp
+END
+uncaughtException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/80/nfcWebApp/trunk/WebContent/WEB-INF/view/uncaughtException.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/42/nfcWebApp/trunk/WebContent/WEB-INF/view/footer.jsp
+END

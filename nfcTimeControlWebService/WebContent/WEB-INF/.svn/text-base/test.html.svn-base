@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Form to create a new resource</title>
+ </head>
+<body>
+	<form action="http://localhost:8080/nfcTimeControl/time/reg" method="POST">
+	<label for="user_login">login</label>
+	<input name="user_login" />
+	<br/>
+	<label for="user_password">pass</label>
+	<input name="user_password" />
+	<br/>
+	<label for="TagID">TagID</label>
+	<input name="TagID" />
+	<br/>
+	<label for="date">data</label>
+	<input name="date" />
+	<br/>
+	<label for="imei">imei</label>
+	<input name="imei" />
+	<br/>
+	<label for="token">token</label>
+	<input name="token" />
+	<br/>
+	<input type="submit" value="Submit" />
+	</form>
+</body>
+</html>

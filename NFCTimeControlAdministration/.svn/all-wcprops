@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/127/NFCTimeControlAdministration
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8/NFCTimeControlAdministration/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/25/NFCTimeControlAdministration/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/NFCTimeControlAdministration/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8/NFCTimeControlAdministration/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/127/NFCTimeControlAdministration/AndroidManifest.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/70/nfcWebApp/trunk/WebContent/WEB-INF/spring
+END
+applicationContext-dataSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/31/nfcWebApp/trunk/WebContent/WEB-INF/spring/applicationContext-dataSource.xml
+END
+applicationContext-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/31/nfcWebApp/trunk/WebContent/WEB-INF/spring/applicationContext-hibernate.xml
+END
+applicationContext-mail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/42/nfcWebApp/trunk/WebContent/WEB-INF/spring/applicationContext-mail.xml
+END
+spring-views.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/41/nfcWebApp/trunk/WebContent/WEB-INF/spring/spring-views.xml
+END
+applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/70/nfcWebApp/trunk/WebContent/WEB-INF/spring/applicationContext-security.xml
+END

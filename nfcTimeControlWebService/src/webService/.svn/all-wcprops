@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/86/nfcTimeControlWebService/src/webService
+END
+HibernateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/nfcTimeControlWebService/src/webService/HibernateUtil.java
+END
+CAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/77/nfcTimeControlWebService/src/webService/CAuthentication.java
+END
+CUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/59/nfcTimeControlWebService/src/webService/CUtility.java
+END
+HibernateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/nfcTimeControlWebService/src/webService/HibernateListener.java
+END
+CAdministration.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/77/nfcTimeControlWebService/src/webService/CAdministration.java
+END
+CEventStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/77/nfcTimeControlWebService/src/webService/CEventStatus.java
+END
+CipherHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/86/nfcTimeControlWebService/src/webService/CipherHelper.java
+END
+CRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/77/nfcTimeControlWebService/src/webService/CRegistration.java
+END

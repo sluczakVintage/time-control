@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25/NFCTimeControlAdministration/libs
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/NFCTimeControlAdministration/libs/README
+END
+guava-src-r09.zip
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25/NFCTimeControlAdministration/libs/guava-src-r09.zip
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/NFCTimeControlAdministration/libs/LICENSE
+END
+gson-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/NFCTimeControlAdministration/libs/gson-1.7.1.jar
+END
+gson-1.7.1-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/NFCTimeControlAdministration/libs/gson-1.7.1-sources.jar
+END
+guava-r09-gwt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25/NFCTimeControlAdministration/libs/guava-r09-gwt.jar
+END
+guava-r09.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/25/NFCTimeControlAdministration/libs/guava-r09.jar
+END
+gson-1.7.1-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/NFCTimeControlAdministration/libs/gson-1.7.1-javadoc.jar
+END

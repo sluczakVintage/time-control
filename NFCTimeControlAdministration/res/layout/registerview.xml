@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background" 
+>
+		<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:layout_width="fill_parent"
+		    android:orientation="vertical" android:weightSum="1" android:background="@color/background"  android:isScrollContainer="true" android:scrollbars="vertical" android:layout_height="484dp">
+		    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/progressBarLayout" android:orientation="horizontal" android:weightSum="1" android:gravity="right">
+		        <ProgressBar style="?android:attr/progressBarStyleSmall" android:id="@+id/progressBar1" android:layout_height="24dp" android:layout_width="24dp" android:layout_alignBottom="@+id/textView3" android:layout_toRightOf="@+id/textView3" android:visibility="invisible"></ProgressBar>
+		        <TextView android:id="@+id/textView3" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:text="@string/registerRegister"></TextView>
+		    </RelativeLayout>
+		    <TextView android:text="@string/registerName" android:id="@+id/textView2" android:layout_height="wrap_content" android:layout_width="wrap_content"></TextView>
+		    <EditText android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/registerLocationNameET">
+		        <requestFocus></requestFocus>
+		    </EditText>
+		    <TextView android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/registerSerialNumber"></TextView>
+		    <EditText android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/registerSerialNumberET" android:inputType="text"></EditText>
+		    <TextView android:id="@+id/TextView02" android:layout_height="wrap_content" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceSmall" android:text="@string/registerCompanyName"></TextView>
+		    <EditText android:id="@+id/registerCompanyNameET" android:layout_height="wrap_content" android:layout_width="wrap_content"></EditText>
+		    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TextView01" android:text="@string/registerCompanyID"></TextView>
+		    <EditText android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/registerCompanyIDET" android:inputType="numberDecimal"></EditText>
+		    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="@string/registerWriteData" android:onClick="@string/onWriteClickHandler" android:id="@+id/registerWriteButton"></Button>
+		    <TextView android:text="@+id/statusText" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/statusText"></TextView>
+		    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="wrap_content" android:layout_height="wrap_content"></LinearLayout>
+		    <Button android:layout_width="wrap_content" android:id="@+id/registerCloseButton" android:layout_height="wrap_content" android:onClick="@string/onCloseClickHandler" android:text="@string/close"></Button>
+		    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/registerNewButton" android:text="@string/registerNewButtonNew" android:onClick="@string/onNewClickHandler"></Button>
+	</TableLayout>
+</ScrollView>

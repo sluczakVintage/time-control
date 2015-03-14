@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/95/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/Article.java
+END
+CEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CEvent.java
+END
+CDevices.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CDevices.java
+END
+CConstrains.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/95/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CConstrains.java
+END
+CUsers.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CUsers.hbm.xml
+END
+CCompany.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CCompany.hbm.xml
+END
+CLocation.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CLocation.hbm.xml
+END
+CUserPrivileges.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CUserPrivileges.hbm.xml
+END
+CUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CUsers.java
+END
+CEmployee.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CEmployee.hbm.xml
+END
+CEvent.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CEvent.hbm.xml
+END
+CDevices.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CDevices.hbm.xml
+END
+CCompany.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CCompany.java
+END
+CUserPrivileges.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CUserPrivileges.java
+END
+CLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CLocation.java
+END
+CEmployee.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/db/entity/CEmployee.java
+END

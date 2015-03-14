@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical" android:background="@color/background"  android:weightSum="1">
+    <TableLayout android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/tableLayout1">
+        <TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <DigitalClock android:id="@+id/digitalClock1" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="DigitalClock"></DigitalClock>
+        </TableRow>
+        <TableRow android:id="@+id/tableRow4" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        </TableRow>
+    </TableLayout>
+    <ImageView android:id="@+id/imageView2" android:layout_height="156dp" android:src="@drawable/waiting"></ImageView>
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/statusText" android:text="@string/statusTextPending"></TextView>
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/tagWriteCloseButton" android:text="@string/close" android:onClick="@string/onWriteCloseClickHandler"></Button>
+</TableLayout>

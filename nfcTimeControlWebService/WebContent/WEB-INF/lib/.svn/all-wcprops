@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/59/nfcTimeControlWebService/WebContent/WEB-INF/lib
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/nfcTimeControlWebService/WebContent/WEB-INF/lib/commons-collections-3.1.jar
+END
+jsr311-api-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar
+END
+jersey-core-1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jersey-core-1.5.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/nfcTimeControlWebService/WebContent/WEB-INF/lib/antlr-2.7.6.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/nfcTimeControlWebService/WebContent/WEB-INF/lib/slf4j-api-1.6.1.jar
+END
+jackson-mapper-asl-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jackson-mapper-asl-1.5.5.jar
+END
+jettison-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jettison-1.1.jar
+END
+hibernate-jpa-2.0-api-1.0.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/nfcTimeControlWebService/WebContent/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar
+END
+jackson-core-asl-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jackson-core-asl-1.5.5.jar
+END
+jackson-xc-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jackson-xc-1.5.5.jar
+END
+jersey-server-1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jersey-server-1.5.jar
+END
+ojdbc6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/ojdbc6.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/57/nfcTimeControlWebService/WebContent/WEB-INF/lib/c3p0-0.9.1.2.jar
+END
+jersey-json-1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jersey-json-1.5.jar
+END
+slf4j-simple-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/nfcTimeControlWebService/WebContent/WEB-INF/lib/slf4j-simple-1.6.1.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/nfcTimeControlWebService/WebContent/WEB-INF/lib/jta-1.1.jar
+END
+javassist-3.12.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/nfcTimeControlWebService/WebContent/WEB-INF/lib/javassist-3.12.0.GA.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/nfcTimeControlWebService/WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+END
+jersey-client-1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jersey-client-1.5.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/asm-3.1.jar
+END
+jackson-jaxrs-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/32/nfcTimeControlWebService/WebContent/WEB-INF/lib/jackson-jaxrs-1.5.5.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/nfcTimeControlWebService/WebContent/WEB-INF/lib/hibernate3.jar
+END

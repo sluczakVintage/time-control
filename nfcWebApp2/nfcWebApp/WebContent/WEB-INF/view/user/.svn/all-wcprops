@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/91/nfcWebApp2/nfcWebApp/WebContent/WEB-INF/view/user
+END
+userDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/90/nfcWebApp2/nfcWebApp/WebContent/WEB-INF/view/user/userDetails.jsp
+END
+addUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/91/nfcWebApp2/nfcWebApp/WebContent/WEB-INF/view/user/addUser.jsp
+END
+usersList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/89/nfcWebApp2/nfcWebApp/WebContent/WEB-INF/view/user/usersList.jsp
+END

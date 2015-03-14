@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2011-06-22 19:16:38 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="db.entity.CUsers" table="USERS">
+    
+        <id name="Id" type="long" column="id"   >
+            <generator class="sequence">
+            <param name="sequence">users_id_seq</param>
+            </generator>
+        </id>
+        <property name="userName" type="java.lang.String" column="USER_NAME"/>
+        <property name="userPassword" type="java.lang.String" column="USER_PASS"/>
+        <property name="creationDate" type="java.sql.Timestamp" column="USER_CREATION_DATE" />
+        <property generated="never" lazy="false" name="isActive" type="java.lang.Character">
+   			<column name="ACTIVE" sql-type="CHAR"/>
+  		</property>
+    </class>
+</hibernate-mapping>

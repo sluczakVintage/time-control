@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/70/nfcWebApp/trunk/src/net/nfc/web/forms
+END
+CSearchForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/39/nfcWebApp/trunk/src/net/nfc/web/forms/CSearchForm.java
+END
+CObjectForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/37/nfcWebApp/trunk/src/net/nfc/web/forms/CObjectForm.java
+END
+CNewUserForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/42/nfcWebApp/trunk/src/net/nfc/web/forms/CNewUserForm.java
+END
+CNewEmployeeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/34/nfcWebApp/trunk/src/net/nfc/web/forms/CNewEmployeeForm.java
+END
+CAddPrivilege.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/41/nfcWebApp/trunk/src/net/nfc/web/forms/CAddPrivilege.java
+END
+CNewEventForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/70/nfcWebApp/trunk/src/net/nfc/web/forms/CNewEventForm.java
+END
+CAddDeviceToEmployeeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/41/nfcWebApp/trunk/src/net/nfc/web/forms/CAddDeviceToEmployeeForm.java
+END
+CNewLocationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/nfcWebApp/trunk/src/net/nfc/web/forms/CNewLocationForm.java
+END

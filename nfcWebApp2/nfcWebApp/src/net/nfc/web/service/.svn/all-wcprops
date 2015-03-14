@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/nfcWebApp2/nfcWebApp/src/net/nfc/web/service
+END
+LocationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/LocationServiceImpl.java
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/UserService.java
+END
+DeviceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/DeviceService.java
+END
+EmployeeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/84/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/EmployeeService.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/UserServiceImpl.java
+END
+EmployeeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/84/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/EmployeeServiceImpl.java
+END
+DeviceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/DeviceServiceImpl.java
+END
+EventService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/EventService.java
+END
+EventServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/EventServiceImpl.java
+END
+UserDetailsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/UserDetailsServiceImpl.java
+END
+CompanyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/CompanyService.java
+END
+CompanyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/CompanyServiceImpl.java
+END
+LocationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/nfcWebApp2/nfcWebApp/src/net/nfc/web/service/LocationService.java
+END

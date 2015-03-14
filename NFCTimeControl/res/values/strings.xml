@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Proszę zbliżyć znacznik...</string>
+    <string name="app_name">NFC Time Control</string>
+    <string name="logTag">NFCTimeControl</string>
+    <string name="LOGIN_DATA">loginData</string><string name="close">Zamknij</string>
+    <string name="loginHeader">Logowanie</string>
+    <string name="loginUsername">Nazwa użytkownika</string>
+    <string name="loginPassword">Hasło</string>
+    <string name="loginRememberMe">Zapamiętaj mnie</string>
+    <string name="loginConnect">Zaloguj</string><string name="loginEnterPassword">Wprowadź hasło</string>
+    <string name="loginEnterUsername">Wprowadź nazwę użytkownika</string><string name="statusNone"></string>
+    <string name="statusConnecting">Łączenie...</string>
+    <string name="statusDenied">Brak dostępu!</string><string name="statusError">Błąd serwera!</string>
+    <string name="statusConnected">Połączono!</string>
+    <string name="statusValidating">Autoryzacja...</string>
+    <string name="onConnectClickHandler">onConnectClickHandler</string>
+    <string name="onCloseClickHandler">onCloseClickHandler</string>
+    
+    <item type="id" name="app_notification_id"/>
+    
+    <string name="eventStatusStarted">W trakcie zlecenia</string>
+    <string name="eventStatusEnded">Zlecenie zakończone</string>
+    <string name="eventStatusCreated">Zlecenie stworzone</string>
+    <string name="eventStatusError">Błąd obsługi zlecenia!</string>
+    <string name="eventStatusIdle">Oczekiwanie...</string>
+    <string name="eventEndPrompt">Czy chcesz zgłosić zakończenie?</string><string name="eventStatusTagNotRecognized">Znacznik nie zarejestrowany w bazie</string><string name="eventStatusAlreadyInProgress">Trwa już inne zlecenie</string><string name="eventStatusJustStarted">Rozpoczęto zlecenie </string><string name="eventStatusReason">Błąd! Powód: </string><string name="eventTagReadingError">Błąd odczytu znacznika</string><string name="menuOptions">Opcje</string>
+    <string name="optionsHeader">Opcje</string>
+    <string name="optionsServerIP">Adres IP serwera</string>
+    <string name="optionsVibrations">Wibracje</string>
+    <string name="optionsSounds">Dźwięki</string>
+    <string name="optionsSave">Zapisz</string>
+    <string name="onOptionsSaveClickHandler">onOptionsSaveClickHandler</string>
+    
+    
+    
+    <string name="menuLogout">Zmień użytkownika</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="ok">Ok</string>
+    <string name="eventStatusRefreshing">Odświeżam status...</string>
+    <string name="eventStatusNoConnection">Brak połączenia z serwerem!</string>
+    
+    
+    
+    
+    
+    
+    
+</resources>

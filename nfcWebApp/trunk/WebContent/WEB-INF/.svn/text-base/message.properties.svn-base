@@ -1,0 +1,59 @@
+companyName.required = Nazwa firmy jest wymagana
+companyName.error = Maksymalnie 40 znaków
+companyNip.required = NIP jest wymagany
+companyNip.error = NIP musi skladac siê z 10 cyfr
+companyStreet.error = Maksymalnie 40 znaków
+companyCity.error = Maksymalnie 40 znaków
+companyCountry.error = Maksymalnie 10 znaków
+companyPostCode.error = Maksymalnie 6 znaków
+companyPhoneNumber.error = Maksymalnie 12 znaków
+companyContactPersonName.error = Maksymalnie 20 znaków
+companyContactPersonLastName.error = Maksymalnie 20 znaków
+companyContactPersonDescription.error = Maksymalnie 50 znaków
+companyEmail.error = Maksymalnie 50 znaków
+
+locationName.error = Maksymalnie 20 znaków
+locationStreet.error = Maksymalnie 100 znaków
+locationCity.error = Maksymalnie 100 znaków
+locationPostCode.error = Maksymalnie 6 znaków
+locationSerialNumber.error = Maksymalnie 1000 znaków
+locationSerialNumber.required = Numer seryjny jest wymagany
+locationDetails.error = Maksymalnie 500 znaków
+locationTagID.error = Maksymalnie 50 znaków
+locationCompanyID.error = Wybierz firmę dla danej lokalizacji
+locationStatus.required = Status lokalizacji jest wymagany
+
+eventType.error = Maksymalnie 100 znaków
+eventComment.error = Maksymalnie 500 znaków
+eventLocationID.required = Nazwa lokalizacji jest wymagana
+eventStatusStarted.error = Istnieje już rozpoczęte zdarzenie dla tej lokalizacji
+eventStatusCreated.error = Istnieje już utworzone zdarzenie dla tej lokalizacji
+
+
+deviceImei.required = Numer seryjny/ IMEI jest wymagany
+deviceImei.error = Maksymalnie 100 znaków
+deviceType.error = Maksymalnie 100 znaków
+deviceImsi.error = Maksymalnie 15 znaków
+deviceDescription.error = Maksymalnie 100 znaków
+devicePhoneNumber.error = Maksymalnie 12 znaków
+
+userName.required = Nazwa u¿ytkownika jest wymagana
+userPassword.required = Haslo jest wymgane
+userName.error = Maksymalnie 12 znaków
+userPassword.error = Hasło nie może być krótsze niz 8 znaków
+userNameDuplicate.error = Nazwa użytkownika jest zajęta
+
+employeeName.required = Imię jest wymagane
+employeeLastName.required = Nazwisko jest wymagane
+employeeName.error  = Maksymalnie 20 znaków
+employeeLastName.error = Maksymalnie 30 znaków
+employeeStreet.error = Maksymalnie 40 znaków
+employeeCity.error = Maksymalnie 30 znaków
+employeePostCode.error = Maksymalnie 6 znaków
+employeeEmail.error = Maksymalnie 50 znaków
+employeePosition.error = Maksymalnie 100 znaków
+
+addDeviceToEmployeeID.required = Wybierz urzadzenie
+
+addPrivilegesRole.required = Wybierz role 
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/70/nfcWebApp/trunk/WebContent/WEB-INF/view/employee
+END
+addEmployee.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/41/nfcWebApp/trunk/WebContent/WEB-INF/view/employee/addEmployee.jsp
+END
+employeeList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/70/nfcWebApp/trunk/WebContent/WEB-INF/view/employee/employeeList.jsp
+END
+editEmployee.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/42/nfcWebApp/trunk/WebContent/WEB-INF/view/employee/editEmployee.jsp
+END
+employeeDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/70/nfcWebApp/trunk/WebContent/WEB-INF/view/employee/employeeDetails.jsp
+END
